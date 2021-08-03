@@ -1,0 +1,3 @@
+﻿  test.cpp
+E:\vscode\mycode_2021_08_03\mycode_2021_08_03\test.cpp(18,65): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  mycode_2021_08_03.vcxproj -> E:\vscode\mycode_2021_08_03\Debug\mycode_2021_08_03.exe
